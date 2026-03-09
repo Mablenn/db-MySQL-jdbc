@@ -60,7 +60,8 @@ public class Ejemplo07_actualizar {
             System.out.println("Error en la carga del driver: " + e.getMessage());
         }//fin try-catch
     } //Fin main
-}//Fin clase
+}
+
 /*
     Pasos:
     1 - Cargar el driver en memoria
